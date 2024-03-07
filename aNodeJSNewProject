@@ -1,0 +1,16 @@
+//tipos de variáveis = var, let, const
+
+let meuAmigo ="Daniel";
+let suaIdade = 12;
+
+console.log(meuAmigo + suaIdade);
+
+let suaOpiniao = "naovenha";
+let minhaOpiniao ="Venha";
+
+console.log(suaOpiniao + minhaOpiniao)
+
+let num1 =10;
+let num2 =20;
+
+console.log(num1 - num2);
